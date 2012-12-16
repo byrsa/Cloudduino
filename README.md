@@ -20,7 +20,7 @@ PC        : Conected to the Internet at all times
    Open a WebBrowser, Go to https://cloudduino.appspot.com, login and start controlling your Arduino from anywhere
 
 
-3. Read the ReadME.text   
+3. Read the Readme.txt   
 
 4. Support
    Email me at 3pppinc@gmail.com
